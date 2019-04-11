@@ -5,7 +5,6 @@ use App\Repository\PropertyRepository;
 use Symfony\Component\Routing\Annotation\Route;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
-use Twig\Environment;
 
 
 class HomeController extends AbstractController
